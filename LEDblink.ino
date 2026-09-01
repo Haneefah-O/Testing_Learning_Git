@@ -1,5 +1,6 @@
 #include <Arduino.h>
 
+//initialization of pins
 int ledpin = 7;
 
 void setup(){
